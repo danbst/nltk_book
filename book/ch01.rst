@@ -1866,24 +1866,23 @@ Some excellent introductory Linguistics textbooks are:
 `LanguageLog`:em:, a popular linguistics blog with occasional posts that
 use the techniques described in this book.
 
----------
-Exercises
----------
+------
+Вправи
+------
 
 .. TODO: add lots more exercises on lists!
 
-#. |easy| Try using the Python interpreter as a calculator, and
-   typing expressions like ``12 / (4 + 1)``.
+#. |easy| Спробуйте використати Python як інтерактивний калькулятор, вводячи
+   вирази вигляду ``12 / (4 + 1)``.
    
-#. |easy| Given an alphabet of 26 letters, there are 26 to the power
-   10, or ``26 ** 10``, ten-letter strings we can form.  That works out
-   to ``141167095653376L`` (the ``L`` at the end just indicates that
-   this is Python's long-number format).  How many hundred-letter
-   strings are possible?
+#. |easy| Якщо ми маємо алфавіт з 26 літер, то всього ми можемо утворити
+   26 у 10 степені (або ``26 ** 10``) десятисимвольних рядків. Отже... ми 
+   можемо утворити ``141167095653376L`` рядків (``L`` в кінці числа у Python 
+   показує, що число відноситься до типу long). Підрахуйте, скільки можна 
+   утворити 100-символьних рядків?
 
-#. |easy| The Python multiplication operation can be applied to lists.
-   What happens when you type ``['Monty', 'Python'] * 20``,
-   or ``3 * sent1``?
+#. |easy| У Пайтоні можна застосовувати "множення" до списків. Що станеться,
+   якщо ви напишите ``['Monty', 'Python'] * 20`` або ``3 * sent1``?
 
 #. |easy| Review sec-computing-with-language-texts-and-words_ on
    computing with language.  How many words are there in ``text2``?
