@@ -332,16 +332,15 @@ phrases from the source text and gives us a sense of its style and content.
    punctuation are independent of one another. You will learn
    more about this in chap-words_.
 
-Counting Vocabulary
+Підрахунок словника
 -------------------
 
-The most obvious fact about texts that emerges from the preceding examples is that
-they differ in the vocabulary they use.  In this section we will see how to use the
-computer to count the words in a text in a variety of useful ways.
-As before, you will jump right in and experiment with
-the Python interpreter, even though you may not have studied Python systematically
-yet.  Test your understanding by modifying the examples, and trying the
-exercises at the end of the chapter.
+Найбільш очевидним фактом щодо використаних вище текстів є те, що вони відрізняються 
+використовуваним словником. У даній частині ми побачимо, як використовувати комп'ютер 
+для підрахунку кількості слів, причому кількома різними способами.
+Як і раніше, ви швидко почнете самостійно експериментувати з інтерпретатором 
+Пайтона, навіть якщо ви досі його не вивчали систематично. Спробуйте змінювати
+приклади і виконуйте завдання у кінці розділу, щоб перевірити своє розуміння Пайтона.
 
 Let's begin by finding out the length of a text from start to finish,
 in terms of the words and punctuation symbols that appear.  We use the
